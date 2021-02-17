@@ -44,7 +44,7 @@ Update the packges in the project location using console
 
 Add MongoDB and Cloudinary configurations at,
 ```
-server -> config -> keys.js
+config -> keys.js
 ```
 Start the application
 ```
