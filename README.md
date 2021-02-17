@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a>
-    <img src="https://drive.google.com/uc?export=view&id=16QoYxBVCZnXk2BICaMaKg5JJwY_s21PJ" alt="Logo" >
+    <img src="https://drive.google.com/uc?export=view&id=1ej5eOJO3LV4_fbPLle7d-753AR9AX2tz" alt="Logo" >
   </a>
   
 # OpenCast by Eduscope
