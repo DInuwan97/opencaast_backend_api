@@ -15,5 +15,8 @@ router
 	.route('/:id')
     .patch(userController.updateUser);
 
+router
+    .route('/')
+    .get(userController.getUsers);
 
 module.exports = router;

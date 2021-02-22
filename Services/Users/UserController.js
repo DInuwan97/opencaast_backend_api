@@ -131,3 +131,23 @@ exports.updateUser = async (req, res) => {
         });
     }
 };
+
+
+
+/**
+ * Implemented for update a Food document in the database
+ * @param {HTTP request} req 
+ * @param {HTTP response} res 
+ * sends response with updated Food document
+ */
+exports.getUsers = async (req, res) => {
+    try {
+        const users = await User.find({})
+        res.status(200).json(users);
+    } catch (err) {
+        res.status(400).json({
+            status: 'failed',
+            message: err.message,
+        });
+    }
+};
