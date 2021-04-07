@@ -16,7 +16,7 @@
 Support of following features
 * User registration
 * User Login
-* Micro service architecture
+* MVC architecture
 
 ## Technologies
 * Server - Nodejs
